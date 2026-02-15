@@ -3,10 +3,11 @@
 ![Python](https://img.shields.io/badge/Python-Data%20Analytics-blue)
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
 ![Machine Learning](https://img.shields.io/badge/AI-Foundations-purple)
+![AI Ready](https://img.shields.io/badge/AI-Ready-purple)
 ![Azure](https://img.shields.io/badge/Cloud-Azure-informational)
 ![EDA](https://img.shields.io/badge/EDA-Exploratory%20Analysis-orange)
-![AI Ready](https://img.shields.io/badge/AI-Ready-purple)
-![Cloud](https://img.shields.io/badge/Cloud-Azure-informational)
+
+
 
 Este projeto apresenta uma **Análise Exploratória de Dados (EDA)** desenvolvida em Python para o desafio prático extra do curso **Introdução à Inteligência Artificial (SCTEC / LAB365)**.
 
